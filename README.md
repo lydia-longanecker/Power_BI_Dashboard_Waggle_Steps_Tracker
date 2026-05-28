@@ -11,7 +11,7 @@ Open the Power BI file
 Go to: Transform Data → Data Source Settings
 Update file paths to your local data folder
 
-🐾 Waggle BI Report: Lapcat vs. Lapdog Analysis
+ Waggle BI Report: Lapcat vs. Lapdog Analysis
 🚀 Overview
 This project was completed as part of the Udacity Business Intelligence Nanodegree. It focuses on evaluating the performance and market viability of Waggle’s new Lapcat device by comparing it to the highly successful Lapdog product.
 Using a fully interactive Power BI dashboard, this analysis answers key executive questions, explores demographic insights, and provides data-driven recommendations to support product strategy decisions.
@@ -159,3 +159,14 @@ Overall:
 
 Lapdog demonstrates strong performance and user satisfaction
 Lapcat shows potential, but results suggest further refinement or targeted positioning may be needed before full launch
+
+
+🙋‍♀️ Author
+Lydia Longanecker
+
+GitHub: https://github.com/yourusername
+LinkedIn: https://linkedin.com/in/yourprofile
+
+
+📎 Acknowledgments
+This project was completed as part of the Udacity Business Intelligence Nanodegree, using provided datasets, branding assets, and project guidelines.
