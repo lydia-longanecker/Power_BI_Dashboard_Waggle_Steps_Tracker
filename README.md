@@ -1,7 +1,7 @@
 # Waggle_Steps_Tracker
 This is a class project from Udacity Data Visualization with Microsoft Power BI Nano Degree.
 
-Setup Instructions
+# Setup Instructions
 This report uses local data files.
 
 To use:
