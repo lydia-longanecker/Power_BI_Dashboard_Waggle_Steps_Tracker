@@ -1,6 +1,16 @@
 # Waggle_Steps_Tracker
 This is a class project from Udacity Data Visualization with Microsoft Power BI Nano Degree.
 
+Setup Instructions
+This report uses local data files.
+
+To use:
+
+Download the repository
+Open the Power BI file
+Go to: Transform Data → Data Source Settings
+Update file paths to your local data folder
+
 Background:
 
 You work as a business intelligence analyst for Waggle, a startup that makes smart devices for pets. Recently, Waggle has been thrilled by the success of their new Lapdog device, a fitness collar that lets owners track their dog’s steps, alerts them when it’s time for a walk, and even repels fleas! Reviews have been fantastic, sales are growing, and—best of all—the product really works!
